@@ -8,4 +8,6 @@
 #
 
 # Run the app
-exec /opt/app-root/app
+echo "steaintapp with lang es"
+exec /opt/app-root/app --lang es
+
